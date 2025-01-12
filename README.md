@@ -18,7 +18,7 @@ Hi, I'm Relink-79, ai developer from Korea. Welcome !
 ## 📚 About my study  
 \- 2022 data analyst study  
 \- 2022 data analyst thesis study  
-\- 2024 AI study  
+\- 2025 AI study  
 
 ## 👨‍💻 git Stats
 
