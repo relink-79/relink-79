@@ -29,8 +29,12 @@ Hi, I'm Relink-79, ai developer from Korea. Welcome !
 \- Gmail : jhh333210@gmail.com
 
 ## my stacks
+
 <p>
+Language :   
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white"/>
-<img alt="tensorflow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=plastic&logo=Tensorflow&logoColor=white"/>
+<img alt="django" src ="https://img.shields.io/badge/django-092E20.svg?&style=plastic&logo=django&logoColor=white"/>
 <img alt="AWS" src ="https://img.shields.io/badge/AWS-FF9900.svg?&style=plastic&logo=amazonwebservices&logoColor=white"/>
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=plastic&logo=C&logoColor=white"/>
 </p>
+
