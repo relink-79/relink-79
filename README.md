@@ -1,3 +1,3 @@
 ### Hi ! I'm ai engineer!
 
-https://img.shields.io/github/languages/count/beygee/survive
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=White"/>
