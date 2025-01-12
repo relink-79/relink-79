@@ -1,16 +1,15 @@
-
 # About Me
 
 Hi, I'm Relink-79, ai developer from Korea. Welcome !
 
-\- 🏫 I am currently studying at Hansung university, Big data track & AI track (~2024)
-\- 🤫 I am studed at Samyuk university, Division of AI Convergence Engineering (2022~2023)
-\- 🌍 I'm learning about ai
-\- ✉️ how to contact :  To be announced
+\- 🏫 I am currently studying at Hansung university, Big data track & AI track (2024)  
+\- 🤫 I am studied at Samyuk university, Division of AI Convergence Engineering (2022~2023)  
+\- 🌍 I'm learning about ai  
+\- ✉️ how to contact : To be announced  
 
 ## 🏆 About my Award
-\- 2022 the 30th ADsP (30회 ADsP)
-\- 2022 Environmental Data Uitilization Idea contest Excellence Award ,Minister of Environment Award (2022 환경데이터 활용 공모전 환경부 장관상 우수상)
+\- 2022 the 30th ADsP (30회 ADsP)  
+\- 2022 Environmental Data Uitilization Idea contest Excellence Award ,Minister of Environment Award (2022 환경데이터 활용 공모전 환경부 장관상 우수상)  
 
 ## 👩🏻‍💻 About my Activity
 \- 2021 Samyuk Likelion at samyuk(삼육 멋쟁이사자 동아리)
