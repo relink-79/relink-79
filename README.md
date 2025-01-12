@@ -12,13 +12,13 @@ Hi, I'm Relink-79, ai developer from Korea. Welcome !
 \- 2022 Environmental Data Uitilization Idea contest Excellence Award ,Minister of Environment Award (2022 환경데이터 활용 공모전 환경부 장관상 우수상)  
 
 ## 👩🏻‍💻 About my Activity
-\- 2021 Samyuk Likelion at samyuk(삼육 멋쟁이사자 동아리)
-\- 2022 GDSC,google Developer student clubs
+\- 2021 Samyuk Likelion at samyuk(삼육 멋쟁이사자 동아리)  
+\- 2022 GDSC,google Developer student clubs  
    
-## 📚 About my study
-\- 2022 data analyst study
-\- 2022 data analyst thesis study
-\- 2024 AI study
+## 📚 About my study  
+\- 2022 data analyst study  
+\- 2022 data analyst thesis study  
+\- 2024 AI study  
 
 ## 👨‍💻 git Stats
 
