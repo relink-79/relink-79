@@ -1,3 +1,6 @@
 ### Hi ! I'm ai engineer!
 
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+
+
+My stacks : 
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=appveyor&logo=Python&logoColor=white"/>
