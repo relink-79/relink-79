@@ -2,7 +2,7 @@
 
 Hi, I'm Relink-79, ai developer from Korea. Welcome !
 
-\- 🏫 I am currently studying at Hansung university, Big data track & AI track (2024)  
+\- 🏫 I am currently studying at Hansung university, Big data track & AI track (2024~)  
 \- 🤫 I am studied at Samyuk university, Division of AI Convergence Engineering (2022~2023)  
 \- 🌍 I'm learning about ai  
 \- ✉️ how to contact : To be announced  
