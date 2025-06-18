@@ -29,7 +29,7 @@ Hi, I'm Relink-79, ai developer from Korea. Welcome !
 \- Gmail : jhh333210@gmail.com
 
 ## 📷my blog
-\- link : ob.aniris-blog.kro.kr
+\- link : https://ob.aniris-blog.kro.kr
 
 ## my stacks
 
