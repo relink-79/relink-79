@@ -11,6 +11,14 @@ Hi, I'm Relink-79, ai developer from Korea. Welcome !
 \- 2022 the 30th ADsP (30회 ADsP)  
 \- 2022 Environmental Data Uitilization Idea contest Excellence Award ,Minister of Environment Award (2022 환경데이터 활용 공모전 환경부 장관상 우수상)  
 
+## 💻 About my small project
+\- 2024 media pipe based Rhythm game
+\- 2024 Vision-based autonomous driving with Raspberry Pi(Industry Collaboration Project)
+\- 2024 trashlyzer 
+\- 2025 LLm-tuned blog post generator based on user-authored blog content
+\- 2025 GPT inference service utilizing the vllm-gfx906 with Radeon Mi50
+\- 2025 emotlinker 
+
 ## 👩🏻‍💻 About my Activity
 \- 2021 Samyuk Likelion at samyuk(삼육 멋쟁이사자 동아리)  
 \- 2022 GDSC,google Developer student clubs  
@@ -19,6 +27,7 @@ Hi, I'm Relink-79, ai developer from Korea. Welcome !
 \- 2022 data analyst study  
 \- 2022 data analyst thesis study  
 \- 2025 AI study  
+
 
 ## 👨‍💻 git Stats
 
