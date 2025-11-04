@@ -16,7 +16,7 @@ Hi, I'm Relink-79, ai developer from Korea. Welcome !
 \- 2024 Vision-based autonomous driving with Raspberry Pi(Industry Collaboration Project)  
 \- 2024 trashlyzer   
 \- 2025 LLm-tuned blog post generator based on user-authored blog content  
-\- 2025 WindRoad
+\- 2025 WindRoad  
 \- 2025 GPT inference service utilizing the vllm-gfx906 with Radeon Mi50  
 \- 2025 emotlinker  
 
