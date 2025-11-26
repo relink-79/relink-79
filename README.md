@@ -10,7 +10,11 @@ Hi, I'm Relink-79, ai developer from Korea. Welcome !
 ## 🏆 About my Award
 \- 2022 the 30th ADsP (30회 ADsP)  
 \- 2022 Environmental Data Uitilization Idea contest Excellence Award ,Minister of Environment Award (2022 환경데이터 활용 공모전 환경부 장관상 우수상)  
-
+\- 2025 NVIDIA-Certified Associate: Generative AI LLMs (nvidia 생성형&llm 자격증)  
+  
+## 🛠️ About my Workshop  
+\- 2025 The 2nd vLLM Hands-on Workshop with Rebellions & SqueezeBits (Rebellion회사 NPU 워크샵)
+  
 ## 💻 About my small project  
 \- 2024 media pipe based Rhythm game  
 \- 2024 Vision-based autonomous driving with Raspberry Pi(Industry Collaboration Project)  
