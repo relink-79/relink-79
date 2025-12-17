@@ -15,6 +15,7 @@ Hi, I'm Relink-79, ai developer from Korea. Welcome !
 \- 2025 The 2nd vLLM Hands-on Workshop with Rebellions & SqueezeBits (Rebellion회사 NPU 워크샵)
   
 ## 💻 About my project    
+\- 2025 LLm-tuned blog post generator based on user-authored blog content  
 \- 2025 WindRoad  
 \- 2025 QWEN3 inference service utilizing the vllm-gfx906 with Radeon Mi50, relink79.com  
 \- 2025 emotlinker  (with Qwen3 finetunning awq)  
@@ -23,7 +24,6 @@ Hi, I'm Relink-79, ai developer from Korea. Welcome !
 \- 2024 media pipe based Rhythm game  
 \- 2024 Vision-based autonomous driving with Raspberry Pi(Industry Collaboration Project)  
 \- 2024 trashlyzer   
-\- 2025 LLm-tuned blog post generator based on user-authored blog content
 
 ## 👩🏻‍💻 About my Activity
 \- 2021 Samyuk Likelion at samyuk(삼육 멋쟁이사자 동아리)  
