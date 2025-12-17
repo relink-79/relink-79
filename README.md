@@ -24,6 +24,7 @@ Hi, I'm Relink-79, ai developer from Korea. Welcome !
 \- 2024 media pipe based Rhythm game  
 \- 2024 Vision-based autonomous driving with Raspberry Pi(Industry Collaboration Project)  
 \- 2024 trashlyzer   
+\- 2025 stock data analysis prediction  
 
 ## 👩🏻‍💻 About my Activity
 \- 2021 Samyuk Likelion at samyuk(삼육 멋쟁이사자 동아리)  
