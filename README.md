@@ -4,25 +4,26 @@ Hi, I'm Relink-79, ai developer from Korea. Welcome !
 
 \- 🏫 I am currently studying at Hansung university, Big data track & AI track (2024~)  
 \- 🤫 I am studied at Samyuk university, Division of AI Convergence Engineering (2022~2023)  
-\- 🌍 I'm learning about ai  
-\- ✉️ how to contact : To be announced  
+\- 🌍 I'm learning about ai, llm
 
 ## 🏆 About my Award
 \- 2022 the 30th ADsP (30회 ADsP)  
-\- 2022 Environmental Data Uitilization Idea contest Excellence Award ,Minister of Environment Award (2022 환경데이터 활용 공모전 환경부 장관상 우수상)  
+\- 2022 Environmental Data Uitilization Idea contest Excellence Award ,Minister of Environment Award (2022 환경데이터 활용 아이디어 공모전 환경부 장관상 우수상)  
 \- 2025 NVIDIA-Certified Associate: Generative AI LLMs (nvidia 생성형&llm 자격증)  
   
 ## 🛠️ About my Workshop  
 \- 2025 The 2nd vLLM Hands-on Workshop with Rebellions & SqueezeBits (Rebellion회사 NPU 워크샵)
   
-## 💻 About my small project  
+## 💻 About my project    
+\- 2025 WindRoad  
+\- 2025 QWEN3 inference service utilizing the vllm-gfx906 with Radeon Mi50, relink79.com  
+\- 2025 emotlinker  (with Qwen3 finetunning awq)  
+
+## 📄 About my small project  
 \- 2024 media pipe based Rhythm game  
 \- 2024 Vision-based autonomous driving with Raspberry Pi(Industry Collaboration Project)  
 \- 2024 trashlyzer   
-\- 2025 LLm-tuned blog post generator based on user-authored blog content  
-\- 2025 WindRoad  
-\- 2025 QWEN3 inference service utilizing the vllm-gfx906 with Radeon Mi50, relink79.com  
-\- 2025 emotlinker  
+\- 2025 LLm-tuned blog post generator based on user-authored blog content
 
 ## 👩🏻‍💻 About my Activity
 \- 2021 Samyuk Likelion at samyuk(삼육 멋쟁이사자 동아리)  
